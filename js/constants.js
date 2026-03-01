@@ -73,7 +73,7 @@ const CARS = {
     car: { width: 169, height: 129, length: 452 },
     scale: 1.75,
     offset: {
-      horizontal: { x: 250, y: 140, shift: 0 },
+      horizontal: { x: 250, y: 120, shift: 0 },
       vertical: { x: 250, y: 105, shift: 0 },
     },
   },
@@ -83,17 +83,17 @@ const CARS = {
     car: { width: 185.2, height: 127.9, length: 457.3 },
     scale: 1.725,
     offset: {
-      horizontal: { x: 240, y: 65, shift: 0 },
-      vertical: { x: 240, y: 105, shift: 0 },
+      horizontal: { x: 250, y: 63, shift: 0 },
+      vertical: { x: 250, y: 100, shift: 0 },
     },
   },
   f1: {
     ref: "f1",
     image: `img/f1.png`,
     scale: 1.45,
-    car: { width: 190, height: 110, length: 545.0 },
+    car: { width: 190, height: 115, length: 545.0 },
     offset: {
-      horizontal: { x: 270, y: 100, shift: 0 },
+      horizontal: { x: 270, y: 95, shift: 0 },
       vertical: { x: 270, y: 85, shift: 0 },
     },
   },
@@ -104,7 +104,7 @@ const CARS = {
     car: { width: 247, height: 354, length: 630 },
     offset: {
       horizontal: { x: 110, y: 80, shift: 250 },
-      vertical: { x: 110, y: 240, shift: 0 },
+      vertical: { x: 110, y: 230, shift: 0 },
     },
   },
 };

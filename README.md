@@ -9,10 +9,10 @@ https://odevsa.github.io/fov/
 ## Quick Start
 
 ```bash
-python -m http.server 8080
+python -m http.server 3000
 ```
 
-Then open http://localhost:8080
+Then open http://localhost:3000
 
 ## Features
 
