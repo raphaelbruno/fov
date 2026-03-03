@@ -73,8 +73,8 @@ const CARS = {
     car: { width: 169, height: 129, length: 452 },
     scale: 1.75,
     offset: {
-      horizontal: { x: 240, y: 121, shift: 0 },
-      vertical: { x: 240, y: 105, shift: 0 },
+      horizontal: { x: 242, y: 121, shift: 0 },
+      vertical: { x: 242, y: 105, shift: 0 },
     },
   },
   gt3: {
@@ -93,8 +93,8 @@ const CARS = {
     scale: 1.45,
     car: { width: 197, height: 117, length: 545.0 },
     offset: {
-      horizontal: { x: 287.5, y: 97.5, shift: 0 },
-      vertical: { x: 287.5, y: 75, shift: 0 },
+      horizontal: { x: 282.5, y: 97.5, shift: 0 },
+      vertical: { x: 282.5, y: 75, shift: 0 },
     },
   },
   truck: {
